@@ -14,6 +14,11 @@ So I swtich the code to c++ version, but it still very time consuming that cannn
 
 The code still have a lot of parts to improve, if you want to use it, you can change the code to speed up.
 
+#### The workflow
+
+![Image text](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation/blob/main/image/flow.png)
+
+
 ## How to use
 
 ### Test platform
@@ -46,7 +51,10 @@ The code still have a lot of parts to improve, if you want to use it, you can ch
 
 ### 2. sections for second segmeantion
 
-![Image text](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation/blob/main/image/section.png)
+![Image text](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation/blob/main/image/section2.png)
+
+![Image text](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation/blob/main/image/planefitting.png)
+
 
 ### 3. segmentation result
 
