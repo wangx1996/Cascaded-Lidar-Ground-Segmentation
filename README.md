@@ -1,6 +1,6 @@
 # Cascaded-Lidar-Ground-Segmentation
 
-[![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation) [![velodyne64 compliant](https://img.shields.io/badge/build-passing-red.svg)](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation)
+[![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation) [![velodyne64 compliant](https://img.shields.io/badge/velodyne64-compliant-red.svg)](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation)
 
 A C++ version for [P. Narksri, E. Takeuchi, Y. Ninomiya, Y. Morales, N. Akai and N. Kawaguchi, "A Slope-robust Cascaded Ground Segmentation in 3D Point Cloud for Autonomous Vehicles," 2018 21st International Conference on Intelligent Transportation Systems (ITSC)](https://ieeexplore.ieee.org/document/8569534)
 
